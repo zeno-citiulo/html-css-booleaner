@@ -63,5 +63,30 @@ h1{
 }
 
 .p-lorem{
-  font-size: 15px;
+  font-size: 14px;
+  margin-left: 10px;
 }
+
+.span-p{
+  background-color: yellow;
+}
+
+.lista-lorem{
+  font-size: 13px;
+  margin-left: -20px;
+}
+
+.intestazione-tabella {
+  width: 100%;
+  text-align: left;
+  margin-left: 10px;
+  background-color: #33ACE1;
+  color: white;
+  margin-left: 50px;
+}
+
+.td-tabella{
+
+}
+
+
