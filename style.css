@@ -73,20 +73,23 @@ h1{
 
 .lista-lorem{
   font-size: 13px;
-  margin-left: -20px;
+  margin-left: -15px;
 }
 
 .intestazione-tabella {
   width: 100%;
   text-align: left;
-  margin-left: 10px;
   background-color: #33ACE1;
   color: white;
-  margin-left: 50px;
+
 }
 
-.td-tabella{
+table{
+  margin-left: 10px;
+}
 
+.td-blu{
+  background-color: #B1E6F2;
 }
 
 
