@@ -92,4 +92,32 @@ table{
   background-color: #B1E6F2;
 }
 
+h5{
+  margin-left: 10px;
+  color: #727272;
+}
+
+.box-image{
+  background-image: url(img/monitor.jpg);
+  background-size: contain;
+  width: 150px;
+  height: 100px;
+  margin-left: 10px;
+}
+
+.p-footer{
+  color: white;
+  font-size: 13px;
+  margin-left: 10px;
+}
+
+.box-image2{
+  background-image: url(img/graph.jpg);
+  background-size: contain;
+  width: 150px;
+  height: 100px;
+  margin-left: 10px;
+  margin-bottom: 20px;
+}
+
 
