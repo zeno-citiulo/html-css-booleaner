@@ -1,8 +1,67 @@
+body{
+  margin: 0%;
+}
+
 header{
   background-color: #4CA1FF;
-  width: 100%;
-  height: 50px;
+  background-image: url(img/pattern.png);
+  height: 170px;
 }
-.pattern{
-  w
+
+.boleaner{
+  width: 20%;
+  margin-top: 50px;
+  text-align: left;
+  margin-left: 10px;
+}
+
+h1{
+  margin-left: 10px;
+  font-size: 30px
+}
+
+.pmain{
+  font-size: 15px;
+  margin-left: 10px;
+  margin-top: -25px;
+  color: #878787;
+}
+
+.autore {
+  color: #4EA3C6;
+}
+
+.pdate{
+  font-size: 10px;
+  margin-top: -15px;
+  margin-left: 10px;
+  color: #878787;
+}
+
+.image-container {
+  display: flex;
+  width: 90%;
+  margin-top: 20px;
+}
+
+.img-tim {
+  max-width: 52%; 
+  height: auto;
+  margin-left: 10px;
+}
+
+.p-autore{
+  font-size: 10px;
+  margin-left: 10px;
+  margin-top: 5px;
+}
+
+.p-autore2{
+  font-size: 10px;
+  margin-left: 10px;
+  margin-top: -10px;
+}
+
+.p-lorem{
+  font-size: 15px;
 }
